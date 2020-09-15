@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item android:id="@+id/searchBar"
+        android:title="google search"
+        android:icon="@drawable/ic_search_bar"
+        app:showAsAction="always"
+        />
+    <item android:id="@+id/filterType"
+        android:title="filter clinic type"
+        android:icon="@drawable/ic_filter"
+        app:showAsAction="always"
+        />
+    <item android:id="@+id/addNewClinic"
+        android:title="add new clinic"
+        android:icon="@drawable/ic_add_new"
+        app:showAsAction="always"/>
+</menu>

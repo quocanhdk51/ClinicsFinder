@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">MyGoogleMap</string>
+    <string name="title_activity_maps">Map</string>
+
+    <string-array name="ClinicTypes">
+        <item>Choose an item....</item>
+        <item>ALL</item>
+        <item>DENTIST</item>
+        <item>DOCTOR</item>
+        <item>HEALTH</item>
+        <item>HOSPITAL</item>
+        <item>PHARMACY</item>
+        <item>PHYSIOTHERAPIST</item>
+        <item>VETERINARY CARE</item>
+    </string-array>
+</resources>

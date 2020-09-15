@@ -1,0 +1,22 @@
+{
+  "clinic": [
+    {
+      "id": "ChIJKbhU9uMudTEReT0OaD9K3aI",
+      "leadPhysician": "no info",
+      "impression": "really good",
+      "content": "Address: 254 đường Hoà Hảo, Phường 4, TP.HCM, Hồ Chí Minh, Vietnam\n Name: Bệnh Viện Hoà Hảo\n Rating: 6.0"
+    },
+    {
+      "id": "ChIJx7n4QVIpdTERUiyrIrFV8vo",
+      "leadPhysician": "bac si chuyen nghiep",
+      "impression": "hay lam",
+      "content": "Address: 409 Hai B� Tr�ng, Ph��ng 8, Qu�n 3, H� Ch� Minh 700000, Vietnam\nName: Nh� Thu�c Long Ch�u\nRating: 8.6\n"
+    },
+    {
+      "id": "ChIJoysk_Q0ndTER77vr5N5yYKo",
+      "leadPhysician": "cau banh",
+      "impression": "kha banh day",
+      "content": "Address: Tr�m y t�, Ph��c B�nh, Qu�n 9, H� Ch� Minh, Vietnam\nName: Dieu Tri Vat Ly Tri Lieu _ Phuc Hoi Chuc Nang\n"
+    }
+  ]
+}
